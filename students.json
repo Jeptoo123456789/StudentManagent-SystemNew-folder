@@ -1,0 +1,26 @@
+[
+    {
+        "id": "sthaje2511",
+        "name": "jeptoo thabita",
+        "gender": "f",
+        "course": "software engineering",
+        "marks": 78.0,
+        "grade": "B"
+    },
+    {
+        "id": "svoty2611",
+        "name": "victo tykio",
+        "gender": "m",
+        "course": "computer science",
+        "marks": 98.0,
+        "grade": "A"
+    },
+    {
+        "id": "sjuko2411",
+        "name": "julius korir",
+        "gender": "m",
+        "course": "business communication",
+        "marks": 89.0,
+        "grade": "A"
+    }
+]
